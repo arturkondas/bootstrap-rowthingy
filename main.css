@@ -1,0 +1,25 @@
+.col-bor {
+  border: 2px solid red;
+}
+
+.into-5ths {
+  display: flex;
+  flex-direction: row;
+}
+
+.col-lg-5ths {
+  width: 20%;
+}
+
+.intoSths {
+  display: flex;
+  flex-direction: row;
+}
+
+.col-lg-intoSths {
+  width: 14.28%;
+}
+.fifth-row {
+  display: flex;
+  flex-flow: row wrap;
+}
