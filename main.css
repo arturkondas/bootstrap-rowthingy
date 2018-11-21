@@ -11,11 +11,6 @@
   width: 20%;
 }
 
-.intoSths {
-  display: flex;
-  flex-direction: row;
-}
-
 .col-lg-intoSths {
   width: 14.28%;
 }
